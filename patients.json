@@ -1,0 +1,92 @@
+{
+    "P001": {
+        "name": "Rahul Sharma",
+        "city": "Delhi",
+        "gender": "Male",
+        "age": 32,
+        "height": 175,
+        "weight": 72,
+        "bmi": 23.5,
+        "verdict": "Healthy"
+    },
+    "P002": {
+        "name": "Priya Verma",
+        "city": "Mumbai",
+        "gender": "Female",
+        "age": 28,
+        "height": 162,
+        "weight": 68,
+        "bmi": 25.9,
+        "verdict": "Overweight"
+    },
+    "P004": {
+        "name": "Neha Singh",
+        "city": "Lucknow",
+        "gender": "Female",
+        "age": 35,
+        "height": 158,
+        "weight": 54,
+        "bmi": 21.6,
+        "verdict": "Healthy"
+    },
+    "P005": {
+        "name": "Arjun Mehta",
+        "city": "Bengaluru",
+        "gender": "Male",
+        "age": 40,
+        "height": 180,
+        "weight": 95,
+        "bmi": 29.3,
+        "verdict": "Obese"
+    },
+    "P006": {
+        "name": "Sanya Kapoor",
+        "city": "Chandigarh",
+        "gender": "Female",
+        "age": 22,
+        "height": 165,
+        "weight": 50,
+        "bmi": 18.4,
+        "verdict": "Underweight"
+    },
+    "P007": {
+        "name": "Vikram Desai",
+        "city": "Ahmedabad",
+        "gender": "Male",
+        "age": 55,
+        "height": 172,
+        "weight": 78,
+        "bmi": 26.4,
+        "verdict": "Overweight"
+    },
+    "P008": {
+        "name": "Ananya Iyer",
+        "city": "Chennai",
+        "gender": "Female",
+        "age": 31,
+        "height": 160,
+        "weight": 60,
+        "bmi": 23.4,
+        "verdict": "Healthy"
+    },
+    "P009": {
+        "name": "Rohan Das",
+        "city": "Pune",
+        "gender": "Male",
+        "age": 29,
+        "height": 178,
+        "weight": 70,
+        "bmi": 22.1,
+        "verdict": "Healthy"
+    },
+    "P010": {
+        "name": "Kavya Nair",
+        "city": "Kochi",
+        "gender": "Female",
+        "age": 27,
+        "height": 155,
+        "weight": 62,
+        "bmi": 25.8,
+        "verdict": "Overweight"
+    }
+}
