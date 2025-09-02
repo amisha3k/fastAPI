@@ -1,0 +1,37 @@
+name,age,height,weight,city,income_lpa,smoker,occupation
+Rahul Sharma,32,175,72,Delhi,12,No,Engineer
+Priya Verma,28,162,55,Mumbai,8,Yes,Doctor
+Amit Singh,40,180,85,Bangalore,15,No,Manager
+Neha Gupta,35,158,50,Chennai,10,No,Teacher
+Vikas Patel,30,172,68,Pune,9,Yes,Designer
+Sneha Reddy,26,165,58,Hyderabad,7,No,Analyst
+Anil Kumar,45,178,90,Kolkata,18,Yes,Lawyer
+Kavita Joshi,29,160,54,Jaipur,6,No,Nurse
+Arjun Mehta,38,182,88,Ahmedabad,16,Yes,Architect
+Pooja Nair,33,168,60,Chandigarh,11,No,Consultant
+Rohit Sharma,31,174,70,Delhi,13,No,Engineer
+Simran Kaur,27,163,56,Mumbai,9,Yes,Doctor
+Rahul Verma,41,179,83,Bangalore,14,No,Manager
+Megha Singh,34,159,52,Chennai,10,No,Teacher
+Karan Patel,29,171,66,Pune,10,Yes,Designer
+Ananya Reddy,25,166,57,Hyderabad,8,No,Analyst
+Suresh Kumar,46,177,92,Kolkata,19,Yes,Lawyer
+Divya Joshi,30,161,53,Jaipur,7,No,Nurse
+Rohan Mehta,37,183,87,Ahmedabad,17,Yes,Architect
+Nidhi Nair,32,167,61,Chandigarh,12,No,Consultant
+Vikram Sharma,33,176,74,Delhi,14,No,Engineer
+Anika Verma,29,164,58,Mumbai,10,Yes,Doctor
+Sahil Singh,42,181,86,Bangalore,16,No,Manager
+Rekha Gupta,36,157,51,Chennai,11,No,Teacher
+Rohit Patel,31,173,69,Pune,11,Yes,Designer
+Sneha Reddy,27,165,59,Hyderabad,9,No,Analyst
+Anil Kumar,44,178,91,Kolkata,18,Yes,Lawyer
+Kavita Joshi,28,160,55,Jaipur,8,No,Nurse
+Arjun Mehta,39,182,89,Ahmedabad,16,Yes,Architect
+Pooja Nair,34,168,62,Chandigarh,12,No,Consultant
+Raghav Sharma,35,175,73,Delhi,15,No,Engineer
+Simran Verma,28,162,57,Mumbai,9,Yes,Doctor
+Amit Singh,40,180,85,Bangalore,15,No,Manager
+Neha Gupta,35,158,53,Chennai,10,No,Teacher
+Vikas Patel,30,172,67,Pune,9,Yes,Designer
+
